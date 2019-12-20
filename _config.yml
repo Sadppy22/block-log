@@ -1,12 +1,13 @@
 # Site settings
-title:        "block-Log"
+title:        "Wilson Leandro Carrillo Neira"
 description:  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolor"
 baseurl:      "" # the subpath of your site, e.g. /blog/
 url:          "http://yourdomain.com" # the base hostname & protocol for your site
 permalink:    /:year/:title
 github:       "yourusername"
-twitter:      "yourusername"
-email:        "mail@example.com"
+facebook:     "https://www.facebook.com/leandro.carrillo.790"
+instagram:     "https://www.instagram.com/leandro.1925/"
+email:        "leitosam03@gmail.com"
 disqus-id:    "example" #leave blank if you dont want comments.
 
 # Build settings
